@@ -93,17 +93,17 @@ fun_fact: "I turn coffee ☕ into code and data into insights 📊"
 <div align="center">
 
 <a href="https://github.com/Mmaneesh007/covid-vaccine-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mmaneesh007&repo=covid-vaccine-tracker&theme=tokyonight&hide_border=true&border_radius=12" alt="COVID Vaccine Tracker" />
+  <img src="https://maneesh007.vercel.app/api/pin/?username=Mmaneesh007&repo=covid-vaccine-tracker&theme=tokyonight&hide_border=true&border_radius=12" alt="COVID Vaccine Tracker" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Mmaneesh007/india-trade">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mmaneesh007&repo=india-trade&theme=tokyonight&hide_border=true&border_radius=12" alt="IndiaTrades" />
+  <img src="https://maneesh007.vercel.app/api/pin/?username=Mmaneesh007&repo=india-trade&theme=tokyonight&hide_border=true&border_radius=12" alt="IndiaTrades" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Mmaneesh007/Hotel-Booking-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mmaneesh007&repo=Hotel-Booking-Website&theme=tokyonight&hide_border=true&border_radius=12" alt="Hotel Booking Website" />
+  <img src="https://maneesh007.vercel.app/api/pin/?username=Mmaneesh007&repo=Hotel-Booking-Website&theme=tokyonight&hide_border=true&border_radius=12" alt="Hotel Booking Website" />
 </a>
 
 </div>
@@ -173,13 +173,13 @@ fun_fact: "I turn coffee ☕ into code and data into insights 📊"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mmaneesh007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://maneesh007.vercel.app/api?username=Mmaneesh007&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
 &nbsp;
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mmaneesh007&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmaneesh007&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://maneesh007.vercel.app/api/top-langs/?username=Mmaneesh007&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
 
 </div>
 
