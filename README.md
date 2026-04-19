@@ -93,6 +93,10 @@ fun_fact: "I turn coffee ☕ into code and data into insights 📊"
 <a href="https://github.com/Mmaneesh007/Hotel-Booking-Website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mmaneesh007&repo=Hotel-Booking-Website&theme=tokyonight&hide_border=true&border_radius=12" alt="Hotel Booking Website" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/Mmaneesh007/calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mmaneesh007&repo=calculator&theme=tokyonight&hide_border=true&border_radius=12" alt="Calculator" />
+</a>
 
 </div>
 
