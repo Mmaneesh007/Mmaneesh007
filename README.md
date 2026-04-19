@@ -112,8 +112,6 @@ fun_fact: "I turn coffee ☕ into code and data into insights 📊"
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mmaneesh007&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-  &nbsp;
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Mmaneesh007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 </div>
 
 ---

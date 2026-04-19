@@ -47,6 +47,9 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
           
           # Customization
           config_padding: 0, 5%
