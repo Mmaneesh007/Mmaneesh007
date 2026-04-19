@@ -1,0 +1,61 @@
+name: Metrics
+on:
+  # Schedule updates (every 12 hours)
+  schedule: [{cron: "0 */12 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_repo (default)
+          #  - read:user (default)
+          #  - read:org (optional, for organization related metrics)
+          #  - repo (optional, for private repository metrics)
+          # The following additional scopes may be required:
+          #  - read:packages (optional, for some plugins)
+          #  - gist (optional, for Gist related plugins)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Mmaneesh007
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_days: 14
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_lines: yes
+          
+          # Customization
+          config_padding: 0, 5%
+          config_twemoji: yes
+          
+          # Display
+          # Note: The theme 'tokyonight' is built-in
+          config_order: base.header, isocalendar, languages, habits, followup
+          
+          # Export to repository
+          filename: github-metrics.svg
+          optimize: css, xml
